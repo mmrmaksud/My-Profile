@@ -1,7 +1,7 @@
 ## -------------------Welcome-------------------
 
 <br>
-<img src="./image.JPG" height = "200" width="150" title="Profile image"/>
+<img src="./img.JPG" height = "200" width="150" title="Profile image"/>
 
 <br>
 <p>I'm Md. Mahbubur Rahman Maksud. I am studying in Computer Science and Engineering (C.S.E) at Institute of Science and Technology (IST).</p>
