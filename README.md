@@ -19,6 +19,6 @@ I have learned C and C++ Programming Language and also solving problems in Codef
 | Email        | mmrmaksud2@gmail.com                                         |
 | Social Media | [Github][github], [Linkedin][linkedin], [Facebook][facebook] |
 
-[github]: (https://www.github.com/mmrmaksud)
-[linkedin]: (https://https://www.linkedin.com/in/mmrmaksud/)
-[facebook]: (https://www.facebook.com/mmrmaksud2)
+[github]: https://www.github.com/mmrmaksud
+[linkedin]: https://https://www.linkedin.com/in/mmrmaksud/
+[facebook]: https://www.facebook.com/mmrmaksud2
