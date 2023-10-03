@@ -14,10 +14,11 @@ I have learned C and C++ Programming Language and also solving problems in Codef
 
 <br/>
 
-| Name         | Md. Mahbubur Rahman Maksud                                   |
-| ------------ | ------------------------------------------------------------ |
-| Email        | mmrmaksud2@gmail.com                                         |
+| Name | Md. Mahbubur Rahman Maksud|
+|------|----|
+| Email |mmrmaksud2@gmail.com |
 | Social Media | [Github][github], [Linkedin][linkedin], [Facebook][facebook] |
+
 
 [github]: https://www.github.com/mmrmaksud
 [linkedin]: https://www.linkedin.com/in/mmrmaksud/
