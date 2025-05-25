@@ -17,9 +17,8 @@ I have learned C and C++ Programming Language and also solving problems in Codef
 | Name | Md. Mahbubur Rahman Maksud|
 |------|----|
 | Email |mmrmaksud2@gmail.com |
-| Social Media | [Github][github], [Linkedin][linkedin], [Facebook][facebook] |
+| Social Media | [Linkedin][linkedin], [Facebook][facebook] |
 
 
-[github]: https://www.github.com/mmrmaksud
-[linkedin]: https://www.linkedin.com/in/mmrmaksud/
-[facebook]: https://www.facebook.com/mmrmaksud2
+[linkedin]: https://www.linkedin.com/in/mmrmaksud2/
+[facebook]: https://www.facebook.com/maksud0303
